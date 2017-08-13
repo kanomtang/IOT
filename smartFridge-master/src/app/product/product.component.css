@@ -1,0 +1,22 @@
+.addProduct{
+  text-align: center;
+}
+
+th{
+  font-size: small;
+
+}
+
+th p{
+  margin-top: 0.3cm;
+}
+
+.productTable{
+  width: 100%;
+}
+
+.inform{
+  color: dimgrey;
+  font-size: xx-small;
+  margin-left: 3px;
+}
